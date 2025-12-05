@@ -116,6 +116,18 @@ ai-customer-support-bot/
 ```
 
 ---
+<h2 align="center">🏗️ System Architecture Diagram</h2>
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/3b404545-7697-4657-a2b8-250b8b4d0501" 
+    alt="System Architecture"
+    width="800"
+  />
+</p>
+
+
+
 
 # ⚙️ Installation & Setup
 
