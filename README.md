@@ -284,9 +284,6 @@ refactor: improve AI service
 
 
 
-# Unthinkable Solutions 🚀
-
-A full-stack project developed as part of **Unthinkable Solutions** placement round
 
 ## 👨‍💻 Developed By
 **Vivek Kharate**  
